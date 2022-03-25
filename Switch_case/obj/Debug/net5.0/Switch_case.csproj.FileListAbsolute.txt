@@ -1,0 +1,16 @@
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\bin\Debug\net5.0\Switch_case.exe
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\bin\Debug\net5.0\Switch_case.deps.json
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\bin\Debug\net5.0\Switch_case.runtimeconfig.json
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\bin\Debug\net5.0\Switch_case.runtimeconfig.dev.json
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\bin\Debug\net5.0\Switch_case.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\bin\Debug\net5.0\ref\Switch_case.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\bin\Debug\net5.0\Switch_case.pdb
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\obj\Debug\net5.0\Switch_case.csproj.AssemblyReference.cache
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\obj\Debug\net5.0\Switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\obj\Debug\net5.0\Switch_case.AssemblyInfoInputs.cache
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\obj\Debug\net5.0\Switch_case.AssemblyInfo.cs
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\obj\Debug\net5.0\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\obj\Debug\net5.0\Switch_case.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\obj\Debug\net5.0\ref\Switch_case.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\obj\Debug\net5.0\Switch_case.pdb
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\Switch_case\obj\Debug\net5.0\Switch_case.genruntimeconfig.cache
