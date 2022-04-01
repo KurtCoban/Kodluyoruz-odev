@@ -1,0 +1,16 @@
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\bin\Debug\net5.0\metot-overloading.exe
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\bin\Debug\net5.0\metot-overloading.deps.json
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\bin\Debug\net5.0\metot-overloading.runtimeconfig.json
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\bin\Debug\net5.0\metot-overloading.runtimeconfig.dev.json
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\bin\Debug\net5.0\metot-overloading.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\bin\Debug\net5.0\ref\metot-overloading.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\bin\Debug\net5.0\metot-overloading.pdb
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\obj\Debug\net5.0\metot-overloading.csproj.AssemblyReference.cache
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\obj\Debug\net5.0\metot-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\obj\Debug\net5.0\metot-overloading.AssemblyInfoInputs.cache
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\obj\Debug\net5.0\metot-overloading.AssemblyInfo.cs
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\obj\Debug\net5.0\metot-overloading.csproj.CoreCompileInputs.cache
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\obj\Debug\net5.0\metot-overloading.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\obj\Debug\net5.0\ref\metot-overloading.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\obj\Debug\net5.0\metot-overloading.pdb
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\metot-overloading\obj\Debug\net5.0\metot-overloading.genruntimeconfig.cache
