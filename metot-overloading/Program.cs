@@ -7,7 +7,7 @@ namespace metot_overloading
         static void Main(string[] args)
         {
             string sayi = "999";
-            
+            int ifade = 999;
 
             bool sonuc = int.TryParse(sayi, out int outSayi);
             if(sonuc)
@@ -23,6 +23,8 @@ namespace metot_overloading
             Metotlar instance = new Metotlar();
             instance.Topla(4, 5, out int toplamSonucu);
             Console.WriteLine(toplamSonucu);
+
+            instance.EkranaYazdir(ifade);
         }
     }
 
@@ -35,6 +37,19 @@ namespace metot_overloading
             toplam = a+b;
 
         
+        }
+
+        public void EkranaYazdir(string veri)
+        {
+            Console.WriteLine(veri);
+
+
+        }
+        public void EkranaYazdir(int veri)
+        {
+            Console.WriteLine(veri);
+
+
         }
     }
 }
