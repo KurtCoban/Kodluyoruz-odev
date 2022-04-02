@@ -28,6 +28,7 @@ namespace String_Metotlar
             Console.WriteLine(degisken.Replace("Cs", "C#"));
             Console.WriteLine(degisken.Split(' ')[1]);
             Console.WriteLine(degisken.Substring(4));
+
         }
     }
 }
