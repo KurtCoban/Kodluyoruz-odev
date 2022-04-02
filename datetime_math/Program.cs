@@ -49,6 +49,8 @@ namespace datetime_math
 
             Console.WriteLine(Math.Pow(3, 4));
             Console.WriteLine(Math.Sqrt(9));
+            Console.WriteLine(Math.Log(9));
         }
     }
+    
 }

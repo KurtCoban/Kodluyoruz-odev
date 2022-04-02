@@ -1,0 +1,16 @@
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\obj\Debug\net5.0\generic_list.csproj.AssemblyReference.cache
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\obj\Debug\net5.0\generic_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\obj\Debug\net5.0\generic_list.AssemblyInfoInputs.cache
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\obj\Debug\net5.0\generic_list.AssemblyInfo.cs
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\obj\Debug\net5.0\generic_list.csproj.CoreCompileInputs.cache
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\bin\Debug\net5.0\generic_list.exe
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\bin\Debug\net5.0\generic_list.deps.json
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\bin\Debug\net5.0\generic_list.runtimeconfig.json
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\bin\Debug\net5.0\generic_list.runtimeconfig.dev.json
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\bin\Debug\net5.0\generic_list.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\bin\Debug\net5.0\ref\generic_list.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\bin\Debug\net5.0\generic_list.pdb
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\obj\Debug\net5.0\generic_list.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\obj\Debug\net5.0\ref\generic_list.dll
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\obj\Debug\net5.0\generic_list.pdb
+C:\Users\cengi\OneDrive\Masaüstü\Kodluyoruz-odev\generic_List\obj\Debug\net5.0\generic_list.genruntimeconfig.cache
