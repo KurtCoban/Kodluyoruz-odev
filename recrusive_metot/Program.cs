@@ -11,9 +11,18 @@ namespace recrusive_metot
             {
                 result = result * 3;
             }
-            Console.WriteLine(result);
+                Console.WriteLine(result);
                 İslemler instance = new();
                 Console.WriteLine(instance.Expo(3,4));
+                string ifade = "Cengizhan Şenol";
+                bool sonuc = ifade.CheckSpaces();
+                Console.WriteLine(sonuc);
+                if(sonuc)
+                {
+                    Console.WriteLine(ifade.RemoveWhiteSpaces());
+                }
+                
+
         }
     }
 
@@ -26,4 +35,18 @@ namespace recrusive_metot
           return Expo(sayi, üs - 1) * sayi;
        }
     }
+    public static class Extension
+    {
+        public static bool CheckSpaces(this string param)
+        {
+            return param.Contains(" ");
+        }
+
+        public static string RemoveWhiteSpaces(this string param)
+        {
+            string[] dizi = param.Split(" ");
+            return string.Join("", dizi);
+        }
+    }
+
 }
