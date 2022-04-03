@@ -54,6 +54,8 @@ namespace Koleksiyonlar_Soru_1
             Console.WriteLine(item);          
 
             Console.WriteLine("Asal Sayı eleman sayısı : " + asalListe.Count);
+            Console.WriteLine("Asal Olmayan Sayı eleman sayısı : " + antiasalListe.Count);
+            
 
         }
     }
