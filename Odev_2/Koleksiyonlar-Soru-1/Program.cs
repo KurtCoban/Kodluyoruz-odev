@@ -56,6 +56,27 @@ namespace Koleksiyonlar_Soru_1
             Console.WriteLine("Asal Sayı eleman sayısı : " + asalListe.Count);
             Console.WriteLine("Asal Olmayan Sayı eleman sayısı : " + antiasalListe.Count);
             
+            int sayac = 1;
+            int toplam = 0;
+            for (int i = 0; i < asalListe.Count ; i++)
+            {
+               toplam = toplam + Convert.ToInt32(asalListe[i]);
+                 sayac ++;
+            }
+            {
+                 
+            }
+            Console.WriteLine("asalların ortalaması:" +toplam/asalListe.Count);
+            int sayac2 = 1;
+            int toplam2 = 0;
+            for(int i=0; i<antiasalListe.Count ; i++)
+            {
+                 toplam2 = toplam2 + Convert.ToInt32(antiasalListe[i]);
+                 sayac2 ++;
+            }
+            Console.WriteLine("asal olmayanların ortalaması:" + toplam2/antiasalListe.Count);
+
+            
 
         }
     }
