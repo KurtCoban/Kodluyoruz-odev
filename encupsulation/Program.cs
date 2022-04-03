@@ -12,6 +12,9 @@ namespace encupsulation
             ogrenci.No = 31;
             ogrenci.Sınıf = 3;
             ogrenci.OgrenciBilgileriniGetir();
+           
+            ogrenci.SınıfAtlat();
+            ogrenci.OgrenciBilgileriniGetir();
         }
     }
     class Ogrenci
