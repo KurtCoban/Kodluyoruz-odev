@@ -26,7 +26,7 @@ namespace CSharpEnum
             }else if (temparature >= (int)AirTemparature.Normal && temparature<(int)AirTemparature.VeryHot)
             { Console.WriteLine("You can go out."); }
             Console.ReadLine();
-            Console.WriteLine("neden");
+            Console.WriteLine("neden");vv
         }
     }
 
